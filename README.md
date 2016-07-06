@@ -1,3 +1,3 @@
 # readmetest
 
-![saru][https://raw.github.com/wiki/poipoi/readmetest/img/saru.gif]
+![saru](https://raw.github.com/wiki/poipoi/readmetest/img/saru.gif)
